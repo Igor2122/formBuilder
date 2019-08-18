@@ -1,0 +1,18 @@
+:root {
+  --color-background: #eee;
+  --color-dark: #000;
+  --color-light: #fff;
+  --color-cloud: #f6f6fd;
+  --color-mouse: #ccc;
+  --color-apple: #00bf82;
+  --color-sea: #002fbf;
+  --color-sky: #5982ff;
+  --color-danger: #ed4337;
+}
+
+@custom-media --lt-640 (max-width: 640px);
+@custom-media --lt-800 (max-width: 800px);
+@custom-media --lt-1050 (max-width: 1050px);
+@custom-media --lt-1330 (max-width: 1330px);
+@custom-media --lt-1600 (max-width: 1600px);
+@custom-media --gt-1050 (min-width: 1000px);

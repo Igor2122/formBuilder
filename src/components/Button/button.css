@@ -1,0 +1,23 @@
+.button {
+  background: var(--color-sea);
+  /* width: 100px; */
+  max-width: 150px;
+  height: 4em;
+  border-radius: 10%;
+  margin: 1%;
+
+  &\__regular {
+    border-radius: 10%;
+    color: var(--color-light);
+  }
+
+  &\__input-btn-success {
+    color: var(--color-light);
+    background: var(--color-apple);
+  }
+
+  &\__input-btn-danger {
+    color: var(--color-light);
+    background: var(--color-danger);
+  }
+}
