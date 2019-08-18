@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Sample Accepted config-data
 
+```json
+
+
+
 [{
 		"inputType": "input",
 		"name": "inputOne",
@@ -61,6 +65,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 		"value": "Some other button ..."
 	}
 ]
+
+```
 
 ## Available Scripts
 
