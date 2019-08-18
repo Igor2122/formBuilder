@@ -1,5 +1,67 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Sample Accepted config-data
+
+[{
+		"inputType": "input",
+		"name": "inputOne",
+		"type": "text",
+		"label": "Input One"
+	},
+	{
+		"inputType": "textArea",
+		"name": "inputOne",
+		"type": "text",
+		"label": "Input One",
+		"rows": 30
+	},
+	{
+		"inputType": "fileUpload",
+		"name": "inputThree",
+		"type": "text",
+		"label": "Input Fil Upload"
+	},
+	{
+		"inputType": "radioButton",
+		"name": "inputFour",
+		"type": "radio",
+		"label": "Alive",
+		"value": "alive"
+	},
+	{
+		"inputType": "radioButton",
+		"name": "inputFour",
+		"type": "radio",
+		"label": "Not alive",
+		"value": "Not alive"
+	},
+	{
+		"inputType": "checkbox",
+		"name": "inputFive",
+		"type": "radio",
+		"label": "Available",
+		"value": "Available"
+	},
+	{
+		"inputType": "submitButton",
+		"name": "inputSix",
+		"type": "success",
+		"value": "Submit Button"
+	},
+	{
+		"inputType": "submitButton",
+		"name": "inputSeven",
+		"type": "danger",
+		"value": "Clear Form"
+	},
+	{
+		"inputType": "submitButton",
+		"name": "inputEight",
+		"type": "danger",
+		"value": "Some other button ..."
+	}
+]
+
 ## Available Scripts
 
 In the project directory, you can run:
